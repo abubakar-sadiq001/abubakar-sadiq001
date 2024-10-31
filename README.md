@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abubakar-sadiq001
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently Other languages
+- 🌱 I’m currently Learning Other languages
 - 💞️ I’m looking to collaborate on a problem solving project
 - 📫 How to reach me https://x.com/abu_sadiq532
 - 😄 Pronouns: I love coding than I love my self
