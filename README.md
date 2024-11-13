@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a problem solving project
 - 📫 How to reach me https://x.com/abu_sadiq532
 - 😄 Pronouns: I love coding than I love my self
-- ⚡ Fun fact: I love to test new things
+- ⚡ Fun fact: I love trying new stuffs
 
 <!---
 abubakar-sadiq001/abubakar-sadiq001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
