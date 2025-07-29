@@ -1,6 +1,6 @@
 - 👋 Hi, I’m abubakar-sadiq001
-- 👀 I’m interested in Software engineering
-- 🌱 I’m currently Learning Other languages
+- 👀 I’m interested in Software programming
+- 🌱 I’m currently Learning and using my tools
 - 💞️ I’m looking to collaborate on a problem solving project
 - 📫 How to reach me https://x.com/scripter_js
 - 😄 Pronouns: He/Him
