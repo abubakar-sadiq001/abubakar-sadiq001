@@ -1,10 +1,11 @@
-- 👋 Hi, I’m abubakar-sadiq001
-- 👀 I’m interested in Software programming
-- 🌱 I’m currently Learning and using my tools
-- 💞️ I’m looking to collaborate on a problem solving project
-- 📫 How to reach me https://x.com/scripter_js
+👋 Hi, I’m Abubakar Sdik
+
+- 👀 I’m passionate about software engineering, problem-solving, and working on collaborative, impactful projects.
+- 🌱 Currently learning and building every day to level up my skills.
+- 💞️ Open to collaborating on problem-solving or innovative engineering projects.
+- 📫 Reach me on X (Twitter): https://x.com/scripter_js
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: One algorithm at a time☝🏻
+- ⚡ Fun fact: Solving the world, one algorithm at a time ☝🏻
 
 <!---
 abubakar-sadiq001/abubakar-sadiq001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
