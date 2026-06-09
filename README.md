@@ -1,13 +1,33 @@
-👋 Hi, I’m Abubakar Sdik
+# 👋 Hi, I'm Abubakar Sadiq
 
-- 👀 I’m passionate about software engineering, problem-solving, and working on collaborative, impactful projects.
-- 🌱 Currently learning and building every day to level up my skills.
-- 💞️ Open to collaborating on problem-solving or innovative engineering projects.
-- 📫 Reach me on X (Twitter): https://x.com/scripter_js
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Solving the world, one algorithm at a time ☝🏻
+💻 A Software Engineer passionate about building modern web applications and creating products that solve real-world problems.
 
-<!---
-abubakar-sadiq001/abubakar-sadiq001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Currently focused on React, Next.js, JavaScript, and modern frontend architecture while expanding my backend and full-stack development skills.
+
+🌱 Learning scalable software design, system architecture, and startup-focused product development.
+
+🛠️ Tech Stack:
+
+* React.js
+* Next.js
+* JavaScript (ES6+)
+* Go
+* MySQL & Postgres
+* Tailwind CSS
+* Supabase
+* Git & GitHub
+
+🎯 Goals:
+
+* Become a world-class Full-Stack Engineer
+* Build and launch impactful software products
+* Contribute to innovative teams and startups
+* Eventually found and scale technology companies
+
+🤝 Open to collaborating on web applications, developer tools, SaaS products, and open-source projects.
+
+📫 Connect with me:
+
+* X (Twitter): https://x.com/scripter_js
+
+⚡ Fun fact: Every project I build teaches me something new about engineering, business, and solving problems at scale.
